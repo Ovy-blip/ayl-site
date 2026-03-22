@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayl.ublafrica.com/sitemap.xml
